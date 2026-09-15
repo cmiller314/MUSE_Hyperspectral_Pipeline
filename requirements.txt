@@ -1,0 +1,9 @@
+numpy>=1.22
+astropy>=5.0
+astroquery>=0.4.6
+pyvo>=1.5
+requests>=2.25
+scipy>=1.7
+Pillow>=8.0
+tifffile>=2021.3.17
+imagecodecs>=2021.3.31

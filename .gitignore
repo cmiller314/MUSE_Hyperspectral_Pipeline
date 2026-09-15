@@ -1,0 +1,14 @@
+# Local data and output directories
+SOLVE/
+
+# Catch-all for large astronomical data files
+*.fits
+*.fit
+*.tif
+*.tiff
+
+# Python caches and environment variables
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.py[cod]
